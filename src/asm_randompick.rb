@@ -5,7 +5,7 @@ module ASM_Extensions
 
     # Constants
     PLUGIN_NAME = 'Random Pick'.freeze
-    PLUGIN_VERSION = '1.0.1'.freeze
+    PLUGIN_VERSION = '1.0.2'.freeze
     PLUGIN_DESCRIPTION = 'Pick random components and/or groups from a selection.'.freeze
     PLUGIN_AUTHOR = 'Alejandro Soriano'.freeze
     PLUGIN_ID = File.basename(__FILE__, '.rb')

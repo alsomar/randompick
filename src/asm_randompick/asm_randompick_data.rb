@@ -3,7 +3,7 @@ module ASM_Extensions
   module RandomPick
 
     # Define a method to run when the menu item is clicked
-    def self.apply_random_pick
+    def self.apply_randompick
       # Get the current model
       model = Sketchup.active_model
       # Get the selection set
